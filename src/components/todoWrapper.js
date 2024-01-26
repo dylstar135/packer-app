@@ -1,9 +1,8 @@
-// TodoWrapper.js
 import React, { useState } from "react";
 import TodoForm from "./TodoForm";
 import { v4 as uuidv4 } from "uuid";
 import Todo from "./Todo";
-import { EditTodoForm } from "./editTodoForm"; // Corrected import
+import { EditTodoForm } from "./editTodoForm";
 
 const TodoWrapper = () => {
   const [todos, setTodos] = useState([]);
@@ -56,7 +55,7 @@ const TodoWrapper = () => {
             key={index}
             toggleComplete={toggleComplete}
             deleteTodo={deleteTodo}
-            editTodo={editTodo} // Corrected prop name
+            editTodo={editTodo}
           />
         )
       )}
