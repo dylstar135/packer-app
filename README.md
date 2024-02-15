@@ -12,6 +12,9 @@ Edit Items: Quickly update item names and details directly in the list.
 **Recommended Items:** To provide pre-generated lists of recommended items for different types of trips.
 **User Accounts/Login:** To allow users to create an acciunt, save lists and previous lists, and share lists between other users
 
+## Screenshot
+![screenshot]
+
 ## Getting Started
 Follow these steps to set up and run the Gear Packing App on your local machine:
 # Installation
@@ -29,4 +32,6 @@ npm install
 Start the development server:
 npm start
 Open your web browser and visit http://localhost:3000 to view the Gear Packing App.
+
+
 
