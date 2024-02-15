@@ -13,7 +13,7 @@ Edit Items: Quickly update item names and details directly in the list.
 **User Accounts/Login:** To allow users to create an acciunt, save lists and previous lists, and share lists between other users
 
 ## Screenshot
-![screenshot]
+![Screenshot](https://github.com/dylstar135/packer-app/blob/main/Screenshot%20from%202024-02-15%2013-59-50.png)
 
 ## Getting Started
 Follow these steps to set up and run the Gear Packing App on your local machine:
