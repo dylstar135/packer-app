@@ -14,6 +14,7 @@ Edit Items: Quickly update item names and details directly in the list.
 
 ## Screenshot
 ![Screenshot](https://github.com/dylstar135/packer-app/blob/main/Screenshot%20from%202024-02-15%2013-59-50.png)
+![Screenshot](https://github.com/dylstar135/packer-app/blob/main/Screenshot%20from%202024-02-15%2014-00-10.png)
 
 ## Getting Started
 Follow these steps to set up and run the Gear Packing App on your local machine:
